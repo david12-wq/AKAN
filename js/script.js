@@ -15,7 +15,7 @@ function day (cc,yy,mm,dd){
     if(t===0){
         ("Sunday");
     }else if(t===1){
-        ("Monday");
+         ("Monday");
     }else if(t===2){
         ("Tuesday");
     }else if(t===3){
